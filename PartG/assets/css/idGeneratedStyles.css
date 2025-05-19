@@ -1,0 +1,6879 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote, figure {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+ol._idFootAndEndNoteOLAttrs {
+	list-style-type:none;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame, img.Basic-Text-Frame {
+	border-style:solid;
+}
+div.object {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+table.Tab {
+	border-collapse:collapse;
+	margin-bottom:3px;
+	margin-top:11px;
+}
+td.Tab, th.Tab {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+table.Basic-Table {
+	border-collapse:collapse;
+	margin-bottom:4px;
+	margin-top:4px;
+}
+td.Basic-Table, th.Basic-Table {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+table.No-Table-Style {
+	border-collapse:collapse;
+	margin-bottom:4px;
+	margin-top:4px;
+}
+td.No-Table-Style, th.No-Table-Style {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+td.EnTet {
+	background-color:#e6e7e8;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.texte {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+p.Avertissement-titre {
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:0.818;
+	margin-bottom:6px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:14px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.Avertissement-txt {
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.143;
+	margin-bottom:1px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.Avertissement-txt--2 {
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.143;
+	margin-bottom:6px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.Partie {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.25;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.Partie-Tdm {
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.154;
+	margin-bottom:11px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.Partie-Tdm-sans-enum {
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.154;
+	margin-bottom:11px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.PartieNum {
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:20px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.PartieTitre {
+	color:#ffffff;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:28px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.071;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:11px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.Ancrage {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.ChapNum {
+	-epub-hyphens:none;
+	color:#ffffff;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:22px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.136;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.ChapTitre {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:20px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.05;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:2;
+}
+p.ExempleTitre {
+	-epub-hyphens:none;
+	color:#ffffff;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:7px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.571;
+	margin-bottom:0;
+	margin-left:4px;
+	margin-right:0;
+	margin-top:3px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:2;
+}
+p.Ndbp {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.125;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.SOM-TitreN1--1-1- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Black", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:900;
+	line-height:1.278;
+	margin-bottom:0;
+	margin-left:48px;
+	margin-right:0;
+	margin-top:6px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-48px;
+	text-transform:uppercase;
+	widows:2;
+}
+p.SOM-TitreN2--1-1-1- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.278;
+	margin-bottom:0;
+	margin-left:48px;
+	margin-right:0;
+	margin-top:3px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-48px;
+	text-transform:uppercase;
+	widows:2;
+}
+p.SOM-TitreN3--1-1-1-1- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.278;
+	margin-bottom:0;
+	margin-left:48px;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-48px;
+	text-transform:none;
+	widows:2;
+}
+p.SOM-TitreN4--1-1-1-1-1- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.278;
+	margin-bottom:0;
+	margin-left:48px;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-48px;
+	text-transform:none;
+	widows:2;
+}
+p.SchemaTxt-C9-5-Centre {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.TabNote {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:7px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.154;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTet1 {
+	-epub-hyphens:none;
+	color:#ffffff;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:2;
+}
+p.TabTxt {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.118;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt--1 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.118;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt--1-C7-FAD {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:6px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.583;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt--1-FAD {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.118;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt--1-retrait {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.118;
+	margin-bottom:1px;
+	margin-left:9px;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt-C7 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:7px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.143;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt-C7-FAD {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:7px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.143;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt-C7-centre {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:7px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.143;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt-C8-5-FAD {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.118;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.TabTxt-C8-5-FAG {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.118;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.TabTxt-C8-5-centre {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.118;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.TabTxt-FAD {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.118;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt-avec-pointilles {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.118;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt-centre {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.118;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TabTxt-centre-C7-5 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.067;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TitreN1--1-1- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Black", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:900;
+	line-height:1.071;
+	margin-bottom:14px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:23px;
+	orphans:2;
+	page-break-after:avoid;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:2;
+}
+p.TitreN2--1-1-1- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.1;
+	margin-bottom:6px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:9px;
+	orphans:2;
+	page-break-after:avoid;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:2;
+}
+p.TitreN3--1-1-1-1- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.222;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:3px;
+	orphans:2;
+	page-break-after:avoid;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:2;
+}
+p.TitreN4--1-1-1-1-1- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.222;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:3px;
+	orphans:2;
+	page-break-after:avoid;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TxtCourant {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TxtCourant-FAG {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TxtCourant-Suite {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:9px;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TxtCourant-centre {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TxtCourant-pas-sur-la-grille {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.TxtCourant-retrait {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:9px;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p._3_ANNEXE_Annexe-ChapTitre-centre {
+	color:#000000;
+	font-family:"Times New Roman MT Std", serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.188;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p._3_ANNEXE_Annexe-Tdm {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:17px;
+	margin-top:6px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p._3_ANNEXE_Annexe-TitreN1 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:2;
+}
+p._3_ANNEXE_Annexe-TitreN2 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"DINPro-RegularItalic", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.158;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:3px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p._3_ANNEXE_Annexe-TxtCourant {
+	color:#000000;
+	font-family:"Times New Roman MT Std", serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.188;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:6px;
+	text-transform:none;
+	widows:2;
+}
+span._5-Bold {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"HelveticaNeueLT Std", sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+span._6-Bold-italic {
+	font-family:"HelveticaNeueLT Std", sans-serif;
+	font-style:italic;
+	font-weight:bold;
+}
+span.Annexe-titre-gris {
+	color:#939598;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Black-Tdm {
+	font-family:"DINPro-Black", sans-serif;
+	font-style:normal;
+	font-weight:900;
+}
+span.Black-TitreN1 {
+	color:#6d6e71;
+	font-family:"DINPro-Black", sans-serif;
+	font-style:normal;
+	font-weight:900;
+}
+span.Bold-SOM {
+	color:#6d6e71;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-transform:none;
+}
+span.Bold-TitreN2-N3 {
+	color:#6d6e71;
+	font-family:"DINPro-Bold", sans-serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.Chiffres-gris {
+	color:#6d6e71;
+}
+span.Fleche {
+	color:#000000;
+	font-family:Pointers, sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Medium {
+	color:#000000;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Medium---scaps {
+	color:#000000;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:normal;
+	text-transform:none;
+}
+span.Medium---super {
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.Medium-SOM {
+	color:#6d6e71;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	text-transform:none;
+}
+span.Medium-italic {
+	font-style:italic;
+	font-weight:normal;
+}
+span.MediumItalic {
+	font-style:italic;
+	font-weight:normal;
+}
+span.Puce {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"Zapf Dingbats", sans-serif;
+	font-size:6px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.Regular-italic {
+	font-style:italic;
+	font-weight:normal;
+}
+span.Regular-italic---super {
+	font-style:italic;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.SOM-Folios {
+	font-family:"DINPro-Regular", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.SOM-Pointilles {
+	color:#000000;
+	font-family:"DINPro-Light", sans-serif;
+	font-size:6px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	text-transform:none;
+}
+span.Scaps {
+	font-variant:small-caps;
+	text-transform:none;
+}
+span.Super {
+	vertical-align:super;
+}
+span.Underline {
+	text-decoration:underline;
+}
+td.CellOverride-1 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-2 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-3 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-4 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-5 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-6 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-7 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-8 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-9 {
+	background-color:#000000;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-10 {
+	background-color:#dcddde;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-11 {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-12 {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-13 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-14 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-15 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-16 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-17 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-18 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-19 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:3px;
+}
+td.CellOverride-20 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-21 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-22 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-23 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-24 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-25 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-26 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-27 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-28 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-29 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-30 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-31 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-32 {
+	background-color:#000000;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-33 {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-34 {
+	background-color:#dcddde;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+	vertical-align:middle;
+}
+td.CellOverride-35 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+	vertical-align:middle;
+}
+td.CellOverride-36 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+	vertical-align:middle;
+}
+td.CellOverride-37 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+	vertical-align:middle;
+}
+td.CellOverride-38 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:0px;
+	padding-right:6px;
+	padding-top:7px;
+}
+td.CellOverride-39 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:7px;
+}
+td.CellOverride-40 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:7px;
+}
+td.CellOverride-41 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:9px;
+	padding-right:9px;
+	padding-top:4px;
+}
+td.CellOverride-42 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-43 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-44 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-45 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:9px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-46 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-47 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-48 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-49 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-50 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-51 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-52 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-53 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-54 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-55 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-56 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-57 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-58 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-59 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-60 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-61 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-62 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-63 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-64 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-65 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-66 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-67 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-68 {
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-69 {
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-70 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-71 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-72 {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-73 {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-74 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-75 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-76 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-77 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-78 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-79 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-80 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-81 {
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-82 {
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-83 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-84 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-85 {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-86 {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-87 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-88 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-89 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-90 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-91 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-92 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-93 {
+	background-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:0px;
+	border-left-style:none;
+	border-left-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-94 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-style:none;
+	border-left-width:0px;
+	border-top-style:none;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:bottom;
+}
+td.CellOverride-95 {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-96 {
+	background-color:#dcddde;
+	border-bottom-style:none;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-97 {
+	background-color:#dcddde;
+	border-bottom-style:none;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-98 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-99 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:none;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-100 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-style:none;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-101 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-102 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-103 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-104 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-105 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-106 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-107 {
+	background-color:#000000;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:none;
+	border-left-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-108 {
+	background-color:#ffffff;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-style:none;
+	border-left-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:0px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:0px;
+	vertical-align:bottom;
+}
+td.CellOverride-109 {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-110 {
+	background-color:#dcddde;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-111 {
+	background-color:#dcddde;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-112 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-113 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-114 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-115 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-116 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-117 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-118 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-119 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-120 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-121 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-style:none;
+	border-left-width:0px;
+	border-top-style:none;
+	border-top-width:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	vertical-align:bottom;
+}
+td.CellOverride-122 {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-123 {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-124 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-125 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-126 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-127 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-128 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-129 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-130 {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-131 {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-132 {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-133 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-134 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:5px;
+}
+td.CellOverride-135 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:5px;
+}
+td.CellOverride-136 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-137 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:5px;
+}
+td.CellOverride-138 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:5px;
+}
+td.CellOverride-139 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-140 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-141 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-142 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:9px;
+}
+td.CellOverride-143 {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-144 {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-145 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-146 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-147 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-148 {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-149 {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-150 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-151 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-152 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+}
+td.CellOverride-153 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+}
+td.CellOverride-154 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:6px;
+	padding-top:9px;
+}
+td.CellOverride-155 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:9px;
+}
+td.CellOverride-156 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:9px;
+}
+td.CellOverride-157 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:9px;
+}
+td.CellOverride-158 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:9px;
+	padding-right:9px;
+	padding-top:9px;
+}
+td.CellOverride-159 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:6px;
+	padding-right:9px;
+	padding-top:9px;
+}
+td.CellOverride-160 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:9px;
+	padding-right:9px;
+	padding-top:9px;
+}
+td.CellOverride-161 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-162 {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-163 {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-164 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-165 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-166 {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-167 {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-168 {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-169 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-170 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-171 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-172 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-173 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-174 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-175 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-176 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-177 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-178 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-179 {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-180 {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-181 {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-182 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-183 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-184 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-185 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-186 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-187 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-188 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-189 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-190 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-191 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-192 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-193 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-194 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-195 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-196 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-197 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-198 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-199 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-200 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-201 {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:6px;
+}
+td.CellOverride-202 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:6px;
+}
+td.CellOverride-203 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-204 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-205 {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-206 {
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-207 {
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-208 {
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-209 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-210 {
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-211 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-212 {
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-213 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-214 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-215 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-216 {
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-217 {
+	border-right-width:0px;
+	padding-bottom:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-218 {
+	border-right-width:0px;
+	padding-bottom:4px;
+	padding-top:4px;
+	vertical-align:top;
+}
+td.CellOverride-219 {
+	border-bottom-width:1px;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-220 {
+	border-bottom-width:1px;
+	border-right-width:0px;
+	padding-bottom:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-221 {
+	border-bottom-width:0px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-top:9px;
+}
+td.CellOverride-222 {
+	background-color:#000000;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-223 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-224 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:9px;
+	padding-right:9px;
+	padding-top:9px;
+}
+td.CellOverride-225 {
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+}
+td.CellOverride-226 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+}
+td.CellOverride-227 {
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+}
+td.CellOverride-228 {
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+	vertical-align:middle;
+}
+td.CellOverride-229 {
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+	vertical-align:middle;
+}
+td.CellOverride-230 {
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+	vertical-align:middle;
+}
+td.CellOverride-231 {
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-232 {
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-233 {
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-234 {
+	border-right-width:0px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-235 {
+	border-bottom-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-236 {
+	border-bottom-width:1px;
+	border-right-width:0px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-237 {
+	border-bottom-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-238 {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-239 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-240 {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-241 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-242 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-243 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-244 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-245 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-246 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-247 {
+	background-color:#000000;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-248 {
+	background-color:#dcddde;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-249 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-250 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-251 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-252 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-253 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-254 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-255 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-256 {
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:top;
+}
+td.CellOverride-257 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-258 {
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-259 {
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:top;
+}
+td.CellOverride-260 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-261 {
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-262 {
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-263 {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-264 {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-265 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-266 {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:11px;
+	padding-top:4px;
+}
+td.CellOverride-267 {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-268 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:11px;
+	padding-top:4px;
+}
+td.CellOverride-269 {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-270 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-271 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:37px;
+	padding-top:6px;
+}
+td.CellOverride-272 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:45px;
+	padding-top:6px;
+}
+td.CellOverride-273 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:11px;
+	padding-top:6px;
+}
+td.CellOverride-274 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:9px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-275 {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+}
+td.CellOverride-276 {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+}
+td.CellOverride-277 {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+}
+td.CellOverride-278 {
+	border-top-width:0px;
+}
+td.CellOverride-279 {
+	border-right-width:0px;
+	border-top-width:0px;
+}
+td.CellOverride-280 {
+	border-right-width:0px;
+}
+td.CellOverride-281 {
+	border-top-width:1px;
+}
+td.CellOverride-282 {
+	border-right-width:0px;
+	border-top-width:1px;
+}
+td.CellOverride-283 {
+	border-bottom-width:1px;
+}
+td.CellOverride-284 {
+	border-bottom-width:1px;
+	border-right-width:0px;
+}
+td.CellOverride-285 {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-286 {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-287 {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+}
+td.CellOverride-288 {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+}
+td.CellOverride-289 {
+	border-bottom-color:#000000;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+}
+td.CellOverride-290 {
+	border-bottom-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+}
+td.CellOverride-291 {
+	border-bottom-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:none;
+	border-top-width:1px;
+}
+td.CellOverride-292 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:none;
+	border-top-width:1px;
+}
+td.CellOverride-293 {
+	border-bottom-color:#000000;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-294 {
+	border-bottom-color:#000000;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:none;
+	border-top-width:1px;
+}
+td.CellOverride-295 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-296 {
+	background-color:#dcddde;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-297 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-298 {
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-299 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-300 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-301 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-302 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+}
+p.ParaOverride-1 {
+	page-break-after:always;
+}
+p.ParaOverride-2 {
+	text-align:left;
+}
+p.ParaOverride-3 {
+	margin-bottom:3px;
+}
+p.ParaOverride-4 {
+	margin-bottom:9px;
+}
+p.ParaOverride-5 {
+	margin-top:3px;
+}
+p.ParaOverride-6 {
+	margin-top:0px;
+}
+p.ParaOverride-7 {
+	margin-left:17px;
+	text-align:left;
+}
+p.ParaOverride-8 {
+	margin-top:17px;
+}
+p.ParaOverride-9 {
+	margin-top:1px;
+}
+p.ParaOverride-10 {
+	margin-top:6px;
+}
+p.ParaOverride-11 {
+	margin-bottom:6px;
+}
+p.ParaOverride-12 {
+	margin-bottom:0px;
+}
+p.ParaOverride-13 {
+	margin-bottom:11px;
+}
+p.ParaOverride-14 {
+	text-align:justify;
+	text-align-last:justify;
+}
+p.ParaOverride-15 {
+	margin-top:57px;
+}
+p.ParaOverride-16 {
+	margin-top:3px;
+	page-break-after:always;
+	text-align:left;
+}
+p.ParaOverride-17 {
+	margin-left:57px;
+}
+p.ParaOverride-18 {
+	margin-top:3px;
+	text-align:left;
+}
+p.ParaOverride-19 {
+	margin-top:11px;
+}
+p.ParaOverride-20 {
+	margin-left:7px;
+	page-break-after:always;
+}
+p.ParaOverride-21 {
+	margin-bottom:11px;
+	margin-top:14px;
+	page-break-after:always;
+}
+p.ParaOverride-22 {
+	margin-bottom:14px;
+	margin-top:9px;
+}
+p.ParaOverride-23 {
+	margin-left:7px;
+}
+p.ParaOverride-24 {
+	text-align:justify;
+	text-align-last:left;
+}
+p.ParaOverride-25 {
+	margin-bottom:17px;
+}
+p.ParaOverride-26 {
+	margin-right:34px;
+}
+p.ParaOverride-27 {
+	margin-bottom:6px;
+	margin-top:34px;
+}
+p.ParaOverride-28 {
+	text-align:center;
+	text-align-last: center;
+}
+p.ParaOverride-29 {
+	-epub-hyphens:none;
+	text-align:center;
+}
+p.ParaOverride-30 {
+	margin-bottom:9px;
+	margin-top:40px;
+}
+p.ParaOverride-31 {
+	page-break-after:always;
+	text-align:center;
+}
+p.ParaOverride-32 {
+	margin-top:28px;
+}
+p.ParaOverride-33 {
+	margin-bottom:14px;
+	text-align:right;
+}
+p.ParaOverride-34 {
+	margin-top:34px;
+}
+p.ParaOverride-35 {
+	margin-bottom:1px;
+}
+p.ParaOverride-36 {
+	margin-bottom:1px;
+	margin-top:7px;
+}
+p.ParaOverride-37 {
+	margin-bottom:1px;
+	margin-top:3px;
+}
+p.ParaOverride-38 {
+	margin-bottom:1px;
+	margin-top:1px;
+}
+p.ParaOverride-39 {
+	margin-bottom:1px;
+	margin-top:6px;
+}
+p.ParaOverride-40 {
+	margin-top:4px;
+}
+p.ParaOverride-41 {
+	margin-top:7px;
+}
+p.ParaOverride-42 {
+	margin-left:14px;
+}
+span.CharOverride-1 {
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+span.CharOverride-3 {
+	font-family:Pointers, sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-4 {
+	font-size:70%;
+}
+span.CharOverride-5 {
+	font-size:7px;
+}
+span.CharOverride-6 {
+	color:#000000;
+}
+span.CharOverride-7 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+span.CharOverride-8 {
+	font-variant:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-9 {
+	font-family:"ITC Zapf Dingbats Std", sans-serif;
+	font-style:normal;
+	font-weight:500;
+}
+span.CharOverride-10 {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-11 {
+	color:#6d6e71;
+	font-family:"Wingdings 3", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-12 {
+	font-size:70%;
+	vertical-align:super;
+}
+span.CharOverride-13 {
+	font-size:9px;
+}
+span.CharOverride-14 {
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-15 {
+	font-size:10px;
+	font-variant:normal;
+	text-transform:none;
+}
+span.CharOverride-16 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-17 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+span.CharOverride-18 {
+	font-size:9px;
+	font-variant:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-19 {
+	color:#000000;
+	font-variant:normal;
+	text-transform:none;
+}
+span.CharOverride-20 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-21 {
+	font-variant:normal;
+	text-transform:none;
+}
+span.CharOverride-22 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-RegularItalic", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-23 {
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:none;
+}
+span.CharOverride-24 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-size:9px;
+	font-variant:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-25 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-26 {
+	color:#ffffff;
+	font-family:"DINPro-Black", sans-serif;
+	font-size:7px;
+	font-style:normal;
+	font-weight:900;
+}
+span.CharOverride-27 {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+p._idGenParaOverride-1 {
+	page-break-after:always;
+}
+span._idGenCharOverride-1 {
+	font-size:70%;
+}
+td._idGenCellOverride-1 {
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+}
+td._idGenCellOverride-2 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-3 {
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-4 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+}
+td._idGenCellOverride-5 {
+	border-right-color:#000000;
+	border-right-style:none;
+	border-right-width:0px;
+}
+td._idGenCellOverride-6 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-7 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+}
+td._idGenCellOverride-8 {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+}
+td._idGenCellOverride-9 {
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td._idGenCellOverride-10 {
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td._idGenCellOverride-11 {
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+}
+col._idGenTableRowColumn-1 {
+	width:40px;
+}
+col._idGenTableRowColumn-2 {
+	width:74px;
+}
+col._idGenTableRowColumn-3 {
+	width:57px;
+}
+tr._idGenTableRowColumn-4 {
+	min-height:24px;
+}
+tr._idGenTableRowColumn-5 {
+	min-height:14px;
+}
+col._idGenTableRowColumn-6 {
+	width:65px;
+}
+tr._idGenTableRowColumn-7 {
+	min-height:30px;
+}
+tr._idGenTableRowColumn-8 {
+	min-height:33px;
+}
+col._idGenTableRowColumn-9 {
+	width:88px;
+}
+col._idGenTableRowColumn-10 {
+	width:34px;
+}
+col._idGenTableRowColumn-11 {
+	width:82px;
+}
+tr._idGenTableRowColumn-12 {
+	min-height:15px;
+}
+tr._idGenTableRowColumn-13 {
+	min-height:120px;
+}
+tr._idGenTableRowColumn-14 {
+	min-height:37px;
+}
+col._idGenTableRowColumn-15 {
+	width:173px;
+}
+col._idGenTableRowColumn-16 {
+	width:54px;
+}
+tr._idGenTableRowColumn-17 {
+	min-height:13px;
+}
+tr._idGenTableRowColumn-18 {
+	min-height:23px;
+}
+tr._idGenTableRowColumn-19 {
+	min-height:32px;
+}
+col._idGenTableRowColumn-20 {
+	width:187px;
+}
+tr._idGenTableRowColumn-21 {
+	min-height:73px;
+}
+col._idGenTableRowColumn-22 {
+	width:79px;
+}
+tr._idGenTableRowColumn-23 {
+	min-height:18px;
+}
+tr._idGenTableRowColumn-24 {
+	min-height:27px;
+}
+tr._idGenTableRowColumn-25 {
+	min-height:130px;
+}
+col._idGenTableRowColumn-26 {
+	width:161px;
+}
+tr._idGenTableRowColumn-27 {
+	min-height:19px;
+}
+tr._idGenTableRowColumn-28 {
+	min-height:21px;
+}
+tr._idGenTableRowColumn-29 {
+	min-height:126px;
+}
+col._idGenTableRowColumn-30 {
+	width:176px;
+}
+col._idGenTableRowColumn-31 {
+	width:113px;
+}
+col._idGenTableRowColumn-32 {
+	width:48px;
+}
+col._idGenTableRowColumn-33 {
+	width:58px;
+}
+col._idGenTableRowColumn-34 {
+	width:55px;
+}
+tr._idGenTableRowColumn-35 {
+	min-height:62px;
+}
+col._idGenTableRowColumn-36 {
+	width:68px;
+}
+col._idGenTableRowColumn-37 {
+	width:45px;
+}
+tr._idGenTableRowColumn-38 {
+	min-height:50px;
+}
+tr._idGenTableRowColumn-39 {
+	min-height:28px;
+}
+tr._idGenTableRowColumn-40 {
+	min-height:47px;
+}
+tr._idGenTableRowColumn-41 {
+	min-height:57px;
+}
+tr._idGenTableRowColumn-42 {
+	min-height:46px;
+}
+tr._idGenTableRowColumn-43 {
+	min-height:56px;
+}
+tr._idGenTableRowColumn-44 {
+	min-height:71px;
+}
+tr._idGenTableRowColumn-45 {
+	min-height:49px;
+}
+tr._idGenTableRowColumn-46 {
+	min-height:59px;
+}
+col._idGenTableRowColumn-47 {
+	width:26px;
+}
+tr._idGenTableRowColumn-48 {
+	min-height:43px;
+}
+tr._idGenTableRowColumn-49 {
+	min-height:52px;
+}
+col._idGenTableRowColumn-50 {
+	width:133px;
+}
+col._idGenTableRowColumn-51 {
+	width:29px;
+}
+tr._idGenTableRowColumn-52 {
+	min-height:16px;
+}
+col._idGenTableRowColumn-53 {
+	width:137px;
+}
+tr._idGenTableRowColumn-54 {
+	min-height:8px;
+}
+tr._idGenTableRowColumn-55 {
+	min-height:5px;
+}
+tr._idGenTableRowColumn-56 {
+	min-height:45px;
+}
+col._idGenTableRowColumn-57 {
+	width:43px;
+}
+tr._idGenTableRowColumn-58 {
+	min-height:17px;
+}
+col._idGenTableRowColumn-59 {
+	width:171px;
+}
+col._idGenTableRowColumn-60 {
+	width:56px;
+}
+col._idGenTableRowColumn-61 {
+	width:62px;
+}
+col._idGenTableRowColumn-62 {
+	width:28px;
+}
+col._idGenTableRowColumn-63 {
+	width:128px;
+}
+col._idGenTableRowColumn-64 {
+	width:91px;
+}
+col._idGenTableRowColumn-65 {
+	width:108px;
+}
+col._idGenTableRowColumn-66 {
+	width:37px;
+}
+col._idGenTableRowColumn-67 {
+	width:102px;
+}
+col._idGenTableRowColumn-68 {
+	width:77px;
+}
+tr._idGenTableRowColumn-69 {
+	min-height:26px;
+}
+tr._idGenTableRowColumn-70 {
+	min-height:38px;
+}
+tr._idGenTableRowColumn-71 {
+	min-height:40px;
+}
+col._idGenTableRowColumn-72 {
+	width:111px;
+}
+tr._idGenTableRowColumn-73 {
+	min-height:25px;
+}
+tr._idGenTableRowColumn-74 {
+	height:6px;
+}
+tr._idGenTableRowColumn-75 {
+	min-height:22px;
+}
+col._idGenTableRowColumn-76 {
+	width:32px;
+}
+col._idGenTableRowColumn-77 {
+	width:17px;
+}
+tr._idGenTableRowColumn-78 {
+	min-height:70px;
+}
+tr._idGenTableRowColumn-79 {
+	min-height:29px;
+}
+col._idGenTableRowColumn-80 {
+	width:288px;
+}
+col._idGenTableRowColumn-81 {
+	width:71px;
+}
+tr._idGenTableRowColumn-82 {
+	min-height:86px;
+}
+tr._idGenTableRowColumn-83 {
+	min-height:134px;
+}
+tr._idGenTableRowColumn-84 {
+	min-height:54px;
+}
+col._idGenTableRowColumn-85 {
+	width:326px;
+}
+tr._idGenTableRowColumn-86 {
+	height:9px;
+}
+tr._idGenTableRowColumn-87 {
+	min-height:512px;
+}
+col._idGenTableRowColumn-88 {
+	width:165px;
+}
+col._idGenTableRowColumn-89 {
+	width:44px;
+}
+col._idGenTableRowColumn-90 {
+	width:135px;
+}
+col._idGenTableRowColumn-91 {
+	width:46px;
+}
+tr._idGenTableRowColumn-92 {
+	min-height:122px;
+}
+tr._idGenTableRowColumn-93 {
+	min-height:142px;
+}
+tr._idGenTableRowColumn-94 {
+	min-height:31px;
+}
+tr._idGenTableRowColumn-95 {
+	min-height:487px;
+}
+tr._idGenTableRowColumn-96 {
+	min-height:34px;
+}
+tr._idGenTableRowColumn-97 {
+	min-height:83px;
+}
+tr._idGenTableRowColumn-98 {
+	min-height:111px;
+}
+tr._idGenTableRowColumn-99 {
+	min-height:35px;
+}
+col._idGenTableRowColumn-100 {
+	width:142px;
+}
+col._idGenTableRowColumn-101 {
+	width:85px;
+}
+col._idGenTableRowColumn-102 {
+	width:193px;
+}
+col._idGenTableRowColumn-103 {
+	width:96px;
+}
+tr._idGenTableRowColumn-104 {
+	min-height:436px;
+}
+col._idGenTableRowColumn-105 {
+	width:315px;
+}
+tr._idGenTableRowColumn-106 {
+	min-height:103px;
+}
+tr._idGenTableRowColumn-107 {
+	min-height:160px;
+}
+tr._idGenTableRowColumn-108 {
+	min-height:94px;
+}
+tr._idGenTableRowColumn-109 {
+	min-height:75px;
+}
+col._idGenTableRowColumn-110 {
+	width:156px;
+}
+col._idGenTableRowColumn-111 {
+	width:21px;
+}
+col._idGenTableRowColumn-112 {
+	width:42px;
+}
+col._idGenTableRowColumn-113 {
+	width:169px;
+}
+tr._idGenTableRowColumn-114 {
+	height:55px;
+}
+tr._idGenTableRowColumn-115 {
+	height:61px;
+}
+tr._idGenTableRowColumn-116 {
+	height:17px;
+}
+tr._idGenTableRowColumn-117 {
+	height:26px;
+}
+tr._idGenTableRowColumn-118 {
+	height:15px;
+}
+tr._idGenTableRowColumn-119 {
+	height:16px;
+}
+tr._idGenTableRowColumn-120 {
+	height:35px;
+}
+tr._idGenTableRowColumn-121 {
+	height:48px;
+}
+tr._idGenTableRowColumn-122 {
+	height:36px;
+}
+tr._idGenTableRowColumn-123 {
+	height:19px;
+}
+tr._idGenTableRowColumn-124 {
+	height:18px;
+}
+tr._idGenTableRowColumn-125 {
+	height:24px;
+}
+tr._idGenTableRowColumn-126 {
+	height:27px;
+}
+col._idGenTableRowColumn-127 {
+	width:256px;
+}
+table._idGenTablePara-1 {
+	margin-left:auto;
+	margin-right:auto;
+}
+#_idContainer005, #_idContainer055, #_idContainer064, #_idContainer095 {
+	-ms-transform:translate(-2.970px,29.100px) rotate(315.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(-2.970px,29.100px) rotate(315.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:39.35px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(-2.970px,29.100px) rotate(315.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(-2.970px,29.100px) rotate(315.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:39.35px;
+	z-index:0;
+}
+#_idContainer006, #_idContainer056, #_idContainer065, #_idContainer096 {
+	-ms-transform:translate(6.384px,6.423px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(6.384px,6.423px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:45.35px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(6.384px,6.423px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(6.384px,6.423px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:45.35px;
+	z-index:1;
+}
+#_idContainer007, #_idContainer057, #_idContainer066, #_idContainer097 {
+	display:inline-block;
+	height:58px;
+	position:relative;
+	width:58px;
+}
+#_idContainer008 {
+	display:inline-block;
+	height:187px;
+	width:228px;
+}
+#_idContainer009 {
+	display:inline-block;
+	height:187px;
+	width:227px;
+}
+#_idContainer010 {
+	display:inline-block;
+	height:131px;
+	width:240px;
+}
+#_idContainer011 {
+	display:inline-block;
+	height:88px;
+	width:225px;
+}
+#_idContainer015 {
+	display:inline-block;
+	height:237px;
+	width:227px;
+}
+#_idContainer016, #_idContainer034, #_idContainer035, #_idContainer041, #_idContainer045, #_idContainer049 {
+	display:inline-block;
+	width:227px;
+}
+#_idContainer020 {
+	display:inline-block;
+	height:93px;
+	width:227px;
+}
+#_idContainer027, #_idContainer028, #_idContainer029 {
+	display:inline-block;
+	height:1px;
+	width:29px;
+}
+#_idContainer050 {
+	display:inline-block;
+	height:308px;
+	width:385px;
+}
+#_idContainer052 {
+	display:inline-block;
+	height:121px;
+	position:relative;
+	width:0px;
+}
+#_idContainer060 {
+	display:inline-block;
+	height:103px;
+	width:227px;
+}
+#_idContainer067 {
+	display:inline-block;
+	height:91px;
+	width:227px;
+}
+#_idContainer068 {
+	display:inline-block;
+	height:191px;
+	width:482px;
+}
+#_idContainer072, #_idContainer074, #_idContainer075, #_idContainer076, #_idContainer077, #_idContainer078, #_idContainer079, #_idContainer080, #_idContainer081, #_idContainer082, #_idContainer083, #_idContainer084, #_idContainer085, #_idContainer086, #_idContainer087, #_idContainer088, #_idContainer089, #_idContainer090, #_idContainer091 {
+	display:inline-block;
+	width:226px;
+}
+#_idContainer101, #_idContainer104, #_idContainer107, #_idContainer110, #_idContainer113, #_idContainer116 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9.92px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:9.92px;
+	z-index:1;
+}
+#_idContainer102, #_idContainer105, #_idContainer108, #_idContainer111, #_idContainer114, #_idContainer117 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9.92px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:9.92px;
+	z-index:0;
+}
+#_idContainer103, #_idContainer106, #_idContainer109, #_idContainer112, #_idContainer115, #_idContainer118 {
+	display:inline-block;
+	height:10px;
+	position:relative;
+	width:10px;
+}
+#_idContainer120 {
+	display:inline-block;
+	height:296px;
+	position:relative;
+	width:481px;
+}
+#_idContainer123, #_idContainer131, #_idContainer146, #_idContainer154, #_idContainer162, #_idContainer170 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:6.82px;
+	z-index:1;
+}
+#_idContainer124 {
+	-ms-transform:translate(0.000px,43.936px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,43.936px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,43.936px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,43.936px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:6.82px;
+	z-index:2;
+}
+#_idContainer125 {
+	-ms-transform:translate(7.094px,0.149px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(7.094px,0.149px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(7.094px,0.149px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(7.094px,0.149px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:43.94px;
+	z-index:0;
+}
+#_idContainer126 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:44.24px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:7.09px;
+	z-index:0;
+}
+#_idContainer127 {
+	-ms-transform:translate(6.871px,21.357px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(6.871px,21.357px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(6.871px,21.357px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(6.871px,21.357px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:5.50px;
+	z-index:1;
+}
+#_idContainer128 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:44.24px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:12.37px;
+	z-index:1;
+}
+#_idContainer129 {
+	-ms-transform:translate(15.652px,14.902px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(15.652px,14.902px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9.50px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(15.652px,14.902px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(15.652px,14.902px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:22.80px;
+	z-index:0;
+}
+#_idContainer130 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:44.24px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:38.46px;
+	z-index:0;
+}
+#_idContainer132 {
+	-ms-transform:translate(0.000px,56.692px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,56.692px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,56.692px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,56.692px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:6.82px;
+	z-index:2;
+}
+#_idContainer133 {
+	-ms-transform:translate(7.094px,0.150px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(7.094px,0.150px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(7.094px,0.150px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(7.094px,0.150px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:56.69px;
+	z-index:0;
+}
+#_idContainer134 {
+	-ms-transform:translate(6.871px,26.929px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(6.871px,26.929px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(6.871px,26.929px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(6.871px,26.929px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:5.50px;
+	z-index:3;
+}
+#_idContainer135 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:56.99px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:12.37px;
+	z-index:0;
+}
+#_idContainer136 {
+	-ms-transform:translate(15.652px,20.948px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(15.652px,20.948px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9.50px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(15.652px,20.948px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(15.652px,20.948px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:22.80px;
+	z-index:1;
+}
+#_idContainer137 {
+	-ms-transform:translate(0.000px,53.149px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,53.149px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:56.99px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,53.149px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,53.149px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:38.46px;
+	z-index:1;
+}
+#_idContainer138 {
+	-ms-transform:translate(0.000px,0.141px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.141px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.141px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.141px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:6.82px;
+	z-index:1;
+}
+#_idContainer139 {
+	-ms-transform:translate(0.000px,33.023px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,33.023px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,33.023px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,33.023px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:6.82px;
+	z-index:2;
+}
+#_idContainer140 {
+	-ms-transform:translate(7.094px,0.000px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(7.094px,0.000px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(7.094px,0.000px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(7.094px,0.000px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:33.11px;
+	z-index:0;
+}
+#_idContainer141 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:33.32px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:7.09px;
+	z-index:0;
+}
+#_idContainer142 {
+	-ms-transform:translate(6.871px,16.427px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(6.871px,16.427px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(6.871px,16.427px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(6.871px,16.427px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:5.50px;
+	z-index:1;
+}
+#_idContainer143 {
+	-ms-transform:translate(0.000px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:33.32px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:12.37px;
+	z-index:0;
+}
+#_idContainer144 {
+	-ms-transform:translate(15.652px,9.785px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(15.652px,9.785px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9.50px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(15.652px,9.785px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(15.652px,9.785px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:22.80px;
+	z-index:1;
+}
+#_idContainer145 {
+	-ms-transform:translate(0.000px,121.464px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,121.464px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:33.32px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,121.464px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,121.464px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:38.46px;
+	z-index:2;
+}
+#_idContainer147 {
+	-ms-transform:translate(0.000px,21.259px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,21.259px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,21.259px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,21.259px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:6.82px;
+	z-index:2;
+}
+#_idContainer148 {
+	-ms-transform:translate(7.094px,0.300px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(7.094px,0.300px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(7.094px,0.300px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(7.094px,0.300px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:21.04px;
+	z-index:0;
+}
+#_idContainer149 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:21.56px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:7.09px;
+	z-index:0;
+}
+#_idContainer150 {
+	-ms-transform:translate(6.871px,10.788px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(6.871px,10.788px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(6.871px,10.788px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(6.871px,10.788px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:5.50px;
+	z-index:1;
+}
+#_idContainer151 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:21.56px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:12.37px;
+	z-index:0;
+}
+#_idContainer152 {
+	-ms-transform:translate(15.652px,4.027px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(15.652px,4.027px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9.50px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(15.652px,4.027px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(15.652px,4.027px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:22.80px;
+	z-index:1;
+}
+#_idContainer153 {
+	-ms-transform:translate(0.000px,169.070px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,169.070px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:21.56px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,169.070px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,169.070px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:38.46px;
+	z-index:3;
+}
+#_idContainer155 {
+	-ms-transform:translate(0.000px,33.307px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,33.307px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,33.307px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,33.307px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:6.82px;
+	z-index:2;
+}
+#_idContainer156 {
+	-ms-transform:translate(7.094px,0.148px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(7.094px,0.148px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(7.094px,0.148px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(7.094px,0.148px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:33.44px;
+	z-index:0;
+}
+#_idContainer157 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:33.61px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:7.09px;
+	z-index:0;
+}
+#_idContainer158 {
+	-ms-transform:translate(6.871px,16.766px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(6.871px,16.766px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(6.871px,16.766px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(6.871px,16.766px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:5.50px;
+	z-index:1;
+}
+#_idContainer159 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:33.61px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:12.37px;
+	z-index:0;
+}
+#_idContainer160 {
+	-ms-transform:translate(15.652px,9.927px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(15.652px,9.927px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9.50px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(15.652px,9.927px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(15.652px,9.927px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:22.80px;
+	z-index:1;
+}
+#_idContainer161 {
+	-ms-transform:translate(0.000px,213.874px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,213.874px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:33.61px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,213.874px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,213.874px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:38.46px;
+	z-index:4;
+}
+#_idContainer163 {
+	-ms-transform:translate(0.000px,22.201px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,22.201px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,22.201px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,22.201px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:6.82px;
+	z-index:2;
+}
+#_idContainer164 {
+	-ms-transform:translate(7.094px,0.149px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(7.094px,0.149px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(7.094px,0.149px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(7.094px,0.149px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:22.68px;
+	z-index:0;
+}
+#_idContainer165 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:22.83px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:7.09px;
+	z-index:0;
+}
+#_idContainer166 {
+	-ms-transform:translate(6.871px,10.780px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(6.871px,10.780px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(6.871px,10.780px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(6.871px,10.780px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:5.50px;
+	z-index:1;
+}
+#_idContainer167 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:22.83px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:12.37px;
+	z-index:0;
+}
+#_idContainer168 {
+	-ms-transform:translate(15.652px,4.537px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(15.652px,4.537px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9.50px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(15.652px,4.537px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(15.652px,4.537px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:22.80px;
+	z-index:1;
+}
+#_idContainer169 {
+	-ms-transform:translate(0.000px,297.404px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,297.404px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:22.83px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,297.404px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,297.404px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:38.46px;
+	z-index:5;
+}
+#_idContainer171 {
+	-ms-transform:translate(0.000px,21.248px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,21.248px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,21.248px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,21.248px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:6.82px;
+	z-index:2;
+}
+#_idContainer172 {
+	-ms-transform:translate(7.094px,-0.001px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(7.094px,-0.001px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(7.094px,-0.001px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(7.094px,-0.001px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:21.33px;
+	z-index:0;
+}
+#_idContainer173 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:21.55px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:7.09px;
+	z-index:0;
+}
+#_idContainer174 {
+	-ms-transform:translate(6.871px,10.699px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(6.871px,10.699px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:1.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(6.871px,10.699px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(6.871px,10.699px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:5.50px;
+	z-index:1;
+}
+#_idContainer175 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:21.55px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:12.37px;
+	z-index:0;
+}
+#_idContainer176 {
+	-ms-transform:translate(15.652px,4.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(15.652px,4.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9.50px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(15.652px,4.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(15.652px,4.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:22.80px;
+	z-index:1;
+}
+#_idContainer177 {
+	-ms-transform:translate(0.000px,335.133px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,335.133px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:21.55px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,335.133px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,335.133px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:38.46px;
+	z-index:6;
+}
+#_idContainer178 {
+	display:inline-block;
+	height:357px;
+	position:relative;
+	width:38px;
+}
+#_idContainer181 {
+	display:inline-block;
+	height:532px;
+	position:relative;
+	width:481px;
+}
+#_idContainer183 {
+	display:inline-block;
+	height:342px;
+	position:relative;
+	width:481px;
+}
+#_idContainer190 {
+	display:inline-block;
+	height:657px;
+	position:relative;
+	width:481px;
+}
+#_idContainer192 {
+	display:inline-block;
+	height:544px;
+	position:relative;
+	width:481px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	height:28px;
+	width:26px;
+	vertical-align: middle;
+}
+img._idGenObjectAttribute-3 {
+	height:28px;
+	width:29px;
+	vertical-align: middle;
+}
+img._idGenObjectAttribute-4 {
+	height:53px;
+	width:133px;
+}
+img._idGenObjectAttribute-5 {
+	height:29px;
+	width:62px;
+}
+img._idGenObjectAttribute-6 {
+	height:29px;
+	width:55px;
+}
+img._idGenObjectAttribute-7 {
+	height:29px;
+	width:38px;
+	vertical-align: middle;
+}
+img._idGenObjectAttribute-8 {
+	height:29px;
+	width:43px;
+}
+img._idGenObjectAttribute-9 {
+	height:29px;
+	width:44px;
+}
+img._idGenObjectAttribute-10 {
+	height:29px;
+	width:60px;
+}
+img._idGenObjectAttribute-11 {
+	height:29px;
+	width:32px;
+}
+img._idGenObjectAttribute-12 {
+	height:29px;
+	width:56px;
+}
+img._idGenObjectAttribute-13 {
+	height:29px;
+	width:51px;
+}
+img._idGenObjectAttribute-14 {
+	height:29px;
+	width:45px;
+}
+img._idGenObjectAttribute-15 {
+	height:29px;
+	width:26px;
+}
+img._idGenObjectAttribute-16 {
+	height:29px;
+	width:40px;
+}
+img._idGenObjectAttribute-17 {
+	height:29px;
+	width:105px;
+}
+img._idGenObjectAttribute-18 {
+	height:28px;
+	width:91px;
+}
+img._idGenObjectAttribute-19 {
+	height:29px;
+	width:139px;
+}
+img._idGenObjectAttribute-20 {
+	height:29px;
+	width:79px;
+}
+img._idGenObjectAttribute-21 {
+	height:28px;
+	width:117px;
+}
+img._idGenObjectAttribute-22 {
+	height:29px;
+	width:35px;
+}
+img._idGenObjectAttribute-23 {
+	height:28px;
+	width:105px;
+}
+img._idGenObjectAttribute-24 {
+	height:27px;
+	width:91px;
+}
+img._idGenObjectAttribute-25 {
+	height:29px;
+	width:37px;
+}
+img._idGenObjectAttribute-26 {
+	height:30px;
+	width:94px;
+}
+img._idGenObjectAttribute-27 {
+	height:30px;
+	width:60px;
+}
+img._idGenObjectAttribute-28 {
+	height:17px;
+	width:11px;
+}
+img._idGenObjectAttribute-29 {
+	height:30px;
+	width:72px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2, figure._idGenObjectStyleOverride-2 {
+	background-color:#ffffff;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-3 {
+	background-color:#000000;
+	border-bottom-left-radius:6px;
+	border-bottom-right-radius:6px;
+	border-color:#ffffff;
+	border-style:solid;
+	border-top-left-radius:6px;
+	border-top-right-radius:6px;
+	border-width:3px;
+}
+div._idGenObjectStyleOverride-4 {
+	background-color:#dcddde;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-5 {
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+}
+div._idGenObjectStyleOverride-6 {
+	border-color:#000000;
+	border-width:1px;
+	padding:3px;
+	text-align:center;
+}
+div._idGenObjectStyleOverride-7 {
+	background-color:#000000;
+	border-bottom-left-radius:1px;
+	border-bottom-right-radius:1px;
+	border-top-left-radius:1px;
+	border-top-right-radius:1px;
+	border-width:0px;
+}
+div._idGenObjectStyle-Disabled {
+	background-color:transparent;
+	border-width:0px;
+}
+hr.HorizontalRule-1 {
+	border-bottom:none;
+	border-left:none;
+	border-right:none;
+	border-top:solid #000000 1px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
+div._idGenObjectLayout-2 {
+	text-align:left;
+}

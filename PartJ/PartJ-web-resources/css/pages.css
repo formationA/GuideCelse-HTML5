@@ -855,7 +855,7 @@ p.pageNumberTop {
 	-ms-hyphenate-before: 2;
 	-moz-hyphenate-before: 2;
 	-webkit-hyphenate-before: 2;
-	padding-left: 6px;
+	padding-left: 0;
 	margin-top: 28px;
 	margin-bottom: 0px;
 	text-align: center;
@@ -871,9 +871,9 @@ p.pageNumberTop {
 }
 
 #itemNumberTopRight {
-	width: 51px !important;
+	width: 44px !important;
 	height: 14px !important;
-	left: 543px !important;
+	left: 552px !important;
 	top: 34px !important;
 	background: #000;
 }
@@ -885,9 +885,9 @@ p.pageNumberTop {
 	background: 0uxfff;
 }
 #itemNumberTopLeft {
-	width: 51px !important;
+	width: 44px !important;
 	height: 14px !important;
-	left: -9px !important;
+	left: 0 !important;
 	top: 34px !important;
 	background: #000;
 }
