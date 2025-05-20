@@ -27,8 +27,17 @@
 				width: 100%;
 			}
 		</style>
+		
+		<script type="text/javascript">
+    		//<!-- On bloque le clic-droit, CTRL + C et la sélection du texte 
+        	document.oncontextmenu = new Function("return false");
+			document.onkeydown = new Function("return false");
+			document.onmousedown = new Function("return false");
+    		//-->
+    	</script>
+
 	</head>
-	<body id="xPartA">
+	<body id="xPartA" oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
 		<button onclick="sommaire()" id="myBtn"><img src="assets/image/top.png"></button>
 		<div id="loadIndicator"><img src="assets/image/loading.gif" alt="loading..." /><span>&nbsp;</span></div>
 		<div id="container-wrap">
