@@ -113,6 +113,24 @@ td.EnTet {
 	padding-top:6px;
 	vertical-align:middle;
 }
+td.EnTet2 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
 td.texte {
 	border-bottom-width:1px;
 	border-left-width:0px;
@@ -1093,7 +1111,7 @@ p.TxtCourant-retrait {
 	font-weight:normal;
 	line-height:1.158;
 	margin-bottom:0;
-	margin-left:9px;
+	margin-left:0;
 	margin-right:0;
 	margin-top:0;
 	orphans:2;
@@ -6876,4 +6894,5392 @@ div._idGenObjectLayout-1 {
 }
 div._idGenObjectLayout-2 {
 	text-align:left;
+}
+
+
+
+td.CellOverride-1_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-2_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-3_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-4_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-5_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-6_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-7_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-8_r {
+	background-color:#000000;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-9_r {
+	background-color:#dcddde;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-10_r {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-11_r {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-12_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-13_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-14_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-15_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-16_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-17_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-18_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:3px;
+}
+td.CellOverride-19_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-20_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-21_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-22_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-23_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-24_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-25_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-26_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-27_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-28_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-29_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-30_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-31_r {
+	background-color:#000000;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-32_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-33_r {
+	background-color:#dcddde;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+	vertical-align:middle;
+}
+td.CellOverride-34_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+	vertical-align:middle;
+}
+td.CellOverride-35_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+	vertical-align:middle;
+}
+td.CellOverride-36_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+	vertical-align:middle;
+}
+td.CellOverride-37_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:0px;
+	padding-right:6px;
+	padding-top:7px;
+}
+td.CellOverride-38_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:7px;
+}
+td.CellOverride-39_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:7px;
+}
+td.CellOverride-40_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:9px;
+	padding-right:9px;
+	padding-top:4px;
+}
+td.CellOverride-41_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-42_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-43_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-44_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:9px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-45_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-46_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-47_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-48_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-49_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-50_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-51_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-52_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-53_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-54_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-55_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-56_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-57_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-58_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-59_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-60_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-61_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-62_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-63_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-64_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-65_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-66_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-67_r {
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-68_r {
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-69_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-70_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-71_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-72_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-73_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-74_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-75_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-76_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-77_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-78_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-79_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-80_r {
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-81_r {
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-82_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-83_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-84_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-85_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:7px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:7px;
+}
+td.CellOverride-86_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-87_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-88_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-89_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-90_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-91_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-92_r {
+	background-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:0px;
+	border-left-style:none;
+	border-left-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-93_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-style:none;
+	border-left-width:0px;
+	border-top-style:none;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:bottom;
+}
+td.CellOverride-94_r {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-95_r {
+	background-color:#dcddde;
+	border-bottom-style:none;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-96_r {
+	background-color:#dcddde;
+	border-bottom-style:none;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-97_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-98_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:none;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-99_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-style:none;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-100_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-101_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-102_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-103_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-104_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-105_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-106_r {
+	background-color:#000000;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:none;
+	border-left-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-107_r {
+	background-color:#ffffff;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-style:none;
+	border-left-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:0px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:0px;
+	vertical-align:bottom;
+}
+td.CellOverride-108_r {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-109_r {
+	background-color:#dcddde;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-110_r {
+	background-color:#dcddde;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-111_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-112_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-113_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-114_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-115_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-116_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-117_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-118_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-119_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-120_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-style:none;
+	border-left-width:0px;
+	border-top-style:none;
+	border-top-width:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	vertical-align:bottom;
+}
+td.CellOverride-121_r {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-122_r {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-123_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-124_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-125_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-126_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:bottom;
+}
+td.CellOverride-127_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-128_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-129_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-130_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-131_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-132_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-133_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-134_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-135_r {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-136_r {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-137_r {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-138_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-139_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-140_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-141_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-142_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-143_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-144_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-145_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-146_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-147_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-148_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-149_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:5px;
+}
+td.CellOverride-150_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:5px;
+}
+td.CellOverride-151_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:6px;
+	padding-top:6px;
+}
+td.CellOverride-152_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+}
+td.CellOverride-153_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+}
+td.CellOverride-154_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:6px;
+}
+td.CellOverride-155_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:9px;
+	padding-right:9px;
+	padding-top:6px;
+}
+td.CellOverride-156_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:6px;
+	padding-right:9px;
+	padding-top:6px;
+}
+td.CellOverride-157_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:9px;
+	padding-right:9px;
+	padding-top:6px;
+}
+td.CellOverride-158_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-159_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-160_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-161_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-162_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-163_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-164_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-165_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-166_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-167_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-168_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-169_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-170_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-171_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-172_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-173_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-174_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-175_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-176_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-177_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-178_r {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-179_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-180_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-181_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-182_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-183_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-184_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-185_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:6px;
+}
+td.CellOverride-186_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-187_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-188_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-189_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-190_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:9px;
+}
+td.CellOverride-191_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-192_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-193_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-194_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-195_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-196_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-197_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-198_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-199_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-200_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-201_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-202_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:6px;
+}
+td.CellOverride-203_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:6px;
+}
+td.CellOverride-204_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-205_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-206_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-207_r {
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-208_r {
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-209_r {
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-210_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+}
+td.CellOverride-211_r {
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-212_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-213_r {
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-214_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-215_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-216_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-217_r {
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-218_r {
+	border-right-width:0px;
+	padding-bottom:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-219_r {
+	border-right-width:0px;
+	padding-bottom:4px;
+	padding-top:4px;
+	vertical-align:top;
+}
+td.CellOverride-220_r {
+	border-bottom-width:1px;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-221_r {
+	border-bottom-width:1px;
+	border-right-width:0px;
+	padding-bottom:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-222_r {
+	border-bottom-width:0px;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-top:9px;
+}
+td.CellOverride-223_r {
+	background-color:#000000;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-224_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-225_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:9px;
+	padding-right:9px;
+	padding-top:9px;
+}
+td.CellOverride-226_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-227_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-228_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-color:#ffffff;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-229_r {
+	border-bottom-width:0px;
+	border-left-color:#ffffff;
+	border-right-color:#ffffff;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-230_r {
+	border-bottom-width:0px;
+	border-left-color:#ffffff;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-231_r {
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-232_r {
+	border-left-width:0px;
+	border-right-color:#ffffff;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-233_r {
+	border-left-color:#ffffff;
+	border-right-color:#ffffff;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-234_r {
+	border-bottom-width:0px;
+	border-left-color:#ffffff;
+	border-right-color:#ffffff;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-235_r {
+	border-bottom-width:0px;
+	border-left-color:#ffffff;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-236_r {
+	background-color:#e6e7e8;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-237_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-238_r {
+	background-color:#e6e7e8;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-239_r {
+	background-color:#e6e7e8;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-240_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-241_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-242_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-243_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-244_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-245_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-246_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-247_r {
+	background-color:#e6e7e8;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-248_r {
+	background-color:#e6e7e8;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-249_r {
+	background-color:#e6e7e8;
+	border-right-color:#ffffff;
+	border-right-width:0px;
+	border-top-color:#000000;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-250_r {
+	border-bottom-width:0px;
+	border-left-color:#ffffff;
+	border-left-width:0px;
+	border-right-color:#ffffff;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-251_r {
+	border-bottom-width:0px;
+	border-left-color:#ffffff;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-252_r {
+	border-bottom-width:1px;
+	border-left-color:#ffffff;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-253_r {
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-254_r {
+	background-color:#e6e7e8;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-255_r {
+	border-bottom-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-256_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-257_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-258_r {
+	background-color:#e6e7e8;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-259_r {
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-260_r {
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-261_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-262_r {
+	border-bottom-width:0px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-263_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-264_r {
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-265_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-266_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-267_r {
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-268_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-269_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-270_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-271_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+}
+td.CellOverride-272_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:0px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:0px;
+}
+td.CellOverride-273_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-color:#ffffff;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:0px;
+}
+td.CellOverride-274_r {
+	border-bottom-width:0px;
+	border-left-color:#ffffff;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:0px;
+}
+td.CellOverride-275_r {
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-276_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-277_r {
+	border-left-width:0px;
+	border-right-color:#ffffff;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-278_r {
+	border-left-color:#ffffff;
+	border-right-color:#ffffff;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-279_r {
+	border-bottom-width:0px;
+	border-left-color:#ffffff;
+	border-right-color:#ffffff;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-280_r {
+	border-bottom-width:0px;
+	border-left-color:#ffffff;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-281_r {
+	background-color:#e6e7e8;
+	border-right-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-282_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-283_r {
+	background-color:#e6e7e8;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-284_r {
+	background-color:#e6e7e8;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-285_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-286_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-287_r {
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-288_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-289_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-290_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-291_r {
+	background-color:#e6e7e8;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-292_r {
+	background-color:#e6e7e8;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-293_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-294_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-295_r {
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:bottom;
+}
+td.CellOverride-296_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-297_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-298_r {
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:top;
+}
+td.CellOverride-299_r {
+	background-color:#e6e7e8;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-300_r {
+	border-bottom-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-301_r {
+	background-color:#e6e7e8;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-302_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-303_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-304_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-305_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-306_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-307_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-308_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-309_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-310_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:9px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-311_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-312_r {
+	border-bottom-width:0px;
+	border-top-width:0px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-313_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:0px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:3px;
+}
+td.CellOverride-314_r {
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+}
+td.CellOverride-315_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:0px;
+}
+td.CellOverride-316_r {
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+}
+td.CellOverride-317_r {
+	border-left-width:1px;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+	vertical-align:middle;
+}
+td.CellOverride-318_r {
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+	vertical-align:middle;
+}
+td.CellOverride-319_r {
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+	vertical-align:middle;
+}
+td.CellOverride-320_r {
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-321_r {
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-322_r {
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-323_r {
+	border-right-width:0px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-324_r {
+	border-bottom-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-325_r {
+	border-bottom-width:1px;
+	border-right-width:0px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-326_r {
+	border-bottom-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-327_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:6px;
+}
+td.CellOverride-328_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-329_r {
+	background-color:#dcddde;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-330_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-331_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-332_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-333_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-334_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-335_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+}
+td.CellOverride-336_r {
+	background-color:#000000;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-337_r {
+	background-color:#dcddde;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-338_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-width:0px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-339_r {
+	background-color:#dcddde;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-340_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-341_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-342_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-343_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-344_r {
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:top;
+}
+td.CellOverride-345_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-346_r {
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-347_r {
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:top;
+}
+td.CellOverride-348_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-349_r {
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-350_r {
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.CellOverride-351_r {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-352_r {
+	background-color:#dcddde;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-353_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-354_r {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:11px;
+	padding-top:4px;
+}
+td.CellOverride-355_r {
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-356_r {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:11px;
+	padding-top:4px;
+}
+td.CellOverride-357_r {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:1px;
+	border-top-width:0px;
+}
+td.CellOverride-358_r {
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:0px;
+	border-top-width:0px;
+}
+td.CellOverride-359_r {
+	border-top-width:0px;
+}
+td.CellOverride-360_r {
+	border-right-width:0px;
+	border-top-width:0px;
+}
+td.CellOverride-361_r {
+	border-right-width:0px;
+}
+td.CellOverride-362_r {
+	border-top-width:1px;
+}
+td.CellOverride-363_r {
+	border-right-width:0px;
+	border-top-width:1px;
+}
+td.CellOverride-364_r {
+	border-bottom-width:1px;
+}
+td.CellOverride-365_r {
+	border-bottom-width:1px;
+	border-right-width:0px;
+}
+td.CellOverride-366_r {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-367_r {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+	vertical-align:middle;
+}
+td.CellOverride-368_r {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+}
+td.CellOverride-369_r {
+	background-color:#dcddde;
+	border-bottom-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+}
+td.CellOverride-370_r {
+	border-bottom-color:#000000;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+}
+td.CellOverride-371_r {
+	border-bottom-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-width:1px;
+}
+td.CellOverride-372_r {
+	border-bottom-color:#000000;
+	border-bottom-style:none;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:none;
+	border-top-width:1px;
+}
+td.CellOverride-373_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:none;
+	border-top-width:1px;
+}
+td.CellOverride-374_r {
+	border-bottom-color:#000000;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-375_r {
+	border-bottom-color:#000000;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:none;
+	border-top-width:1px;
+}
+td.CellOverride-376_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-377_r {
+	background-color:#dcddde;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-378_r {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-379_r {
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-380_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-381_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-382_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-383_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:0px;
+}
+p.ParaOverride-1_r {
+	text-align:left;
+}
+p.ParaOverride-2_r {
+	margin-bottom:3px;
+}
+p.ParaOverride-3_r {
+	page-break-after:always;
+}
+p.ParaOverride-4_r {
+	margin-bottom:9px;
+}
+p.ParaOverride-5_r {
+	margin-top:3px;
+}
+p.ParaOverride-6_r {
+	margin-top:0px;
+}
+p.ParaOverride-7_r {
+	margin-left:17px;
+	text-align:left;
+}
+p.ParaOverride-8_r {
+	margin-top:17px;
+}
+p.ParaOverride-9_r {
+	margin-top:1px;
+}
+p.ParaOverride-10_r {
+	margin-top:6px;
+}
+p.ParaOverride-11_r {
+	margin-bottom:11px;
+	page-break-after:always;
+}
+p.ParaOverride-12_r {
+	margin-bottom:6px;
+}
+p.ParaOverride-13_r {
+	margin-bottom:0px;
+}
+p.ParaOverride-14_r {
+	margin-top:57px;
+}
+p.ParaOverride-15_r {
+	margin-top:3px;
+	text-align:left;
+}
+p.ParaOverride-16_r {
+	margin-top:11px;
+}
+p.ParaOverride-17_r {
+	margin-left:7px;
+	page-break-after:always;
+}
+p.ParaOverride-18_r {
+	text-align:justify;
+	text-align-last:justify;
+}
+p.ParaOverride-19_r {
+	margin-bottom:11px;
+	margin-top:14px;
+	page-break-after:always;
+}
+p.ParaOverride-20_r {
+	margin-bottom:14px;
+	margin-top:9px;
+}
+p.ParaOverride-21_r {
+	margin-bottom:11px;
+}
+p.ParaOverride-22_r {
+	margin-left:9px;
+}
+p.ParaOverride-23_r {
+	margin-left:7px;
+}
+p.ParaOverride-24_r {
+	text-align:justify;
+	text-align-last:left;
+}
+p.ParaOverride-25_r {
+	margin-right:34px;
+}
+p.ParaOverride-26_r {
+	margin-bottom:6px;
+	margin-top:34px;
+}
+p.ParaOverride-27_r {
+	text-align:center !important;
+	text-align-last:center !important;
+}
+p.ParaOverride-28_r {
+	-epub-hyphens:none;
+	text-align:center !important;
+	text-align-last:center !important;
+}
+p.ParaOverride-29_r {
+	margin-bottom:9px;
+	margin-top:40px;
+}
+p.ParaOverride-30_r {
+	page-break-after:always;
+	text-align:center;
+}
+p.ParaOverride-31_r {
+	text-align:right;
+}
+p.ParaOverride-32_r {
+	margin-bottom:0px;
+	margin-top:0px;
+	page-break-after:always;
+	text-align:left;
+}
+p.ParaOverride-33_r {
+	margin-top:28px;
+}
+p.ParaOverride-34_r {
+	margin-bottom:14px;
+	text-align:right;
+}
+p.ParaOverride-35_r {
+	margin-top:34px;
+}
+p.ParaOverride-36_r {
+	margin-left:14px;
+}
+span.CharOverride-1_r {
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2_r {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+span.CharOverride-3_r {
+	font-size:8px;
+}
+span.CharOverride-4_r {
+	font-family:Pointers, sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-5_r {
+	font-size:70%;
+}
+span.CharOverride-6_r {
+	font-size:7px;
+}
+span.CharOverride-7_r {
+	color:#000000;
+}
+span.CharOverride-8_r {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+span.CharOverride-9_r {
+	font-variant:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-10_r {
+	font-family:"ITC Zapf Dingbats Std", sans-serif;
+	font-style:normal;
+	font-weight:500;
+}
+span.CharOverride-11_r {
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-12_r {
+	color:#6d6e71;
+	font-family:"Wingdings 3", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-13_r {
+	font-size:70%;
+	vertical-align:super;
+}
+span.CharOverride-14_r {
+	font-size:9px;
+}
+span.CharOverride-15_r {
+	font-size:10px;
+	font-variant:normal;
+	text-transform:none;
+}
+span.CharOverride-16_r {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-17_r {
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-18_r {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Bold", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+span.CharOverride-19_r {
+	font-size:9px;
+	font-variant:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-20_r {
+	font-size:7px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-21_r {
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-22_r {
+	font-size:5px;
+	vertical-align:super;
+}
+span.CharOverride-23_r {
+	font-size:7px;
+	font-style:italic;
+	font-weight:bold;
+}
+span.CharOverride-24_r {
+	color:#000000;
+	font-variant:normal;
+	text-transform:none;
+}
+span.CharOverride-25_r {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-26_r {
+	font-variant:normal;
+	text-transform:none;
+}
+span.CharOverride-27_r {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-RegularItalic", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-28_r {
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:none;
+}
+span.CharOverride-29_r {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-size:9px;
+	font-variant:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-30_r {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Regular", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-31_r {
+	color:#ffffff;
+	font-family:"DINPro-Black", sans-serif;
+	font-size:7px;
+	font-style:normal;
+	font-weight:900;
+}
+span.CharOverride-32_r {
+	-webkit-text-combine:none;
+	color:#000000;
+	font-family:"DINPro-Medium", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+span._idGenCharOverride-1_r {
+	font-size:70%;
+}
+td._idGenCellOverride-1_r {
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:0px;
+}
+td._idGenCellOverride-2_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-3_r {
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-4_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+}
+td._idGenCellOverride-5_r {
+	border-right-color:#000000;
+	border-right-style:none;
+	border-right-width:0px;
+}
+td._idGenCellOverride-6_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:0px;
+}
+td._idGenCellOverride-7_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-8_r {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+}
+td._idGenCellOverride-9_r {
+	border-bottom-color:#000000;
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+}
+td._idGenCellOverride-10_r {
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td._idGenCellOverride-11_r {
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td._idGenCellOverride-12_r {
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+}
+td._idGenCellOverride-13_r {
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+}
+col._idGenTableRowColumn-1_r {
+	width:57px;
+}
+tr._idGenTableRowColumn-2_r {
+	min-height:14px;
+}
+col._idGenTableRowColumn-3_r {
+	width:65px;
+}
+col._idGenTableRowColumn-4_r {
+	width:40px;
+}
+tr._idGenTableRowColumn-5_r {
+	min-height:30px;
+}
+tr._idGenTableRowColumn-6_r {
+	min-height:33px;
+}
+col._idGenTableRowColumn-7_r {
+	width:88px;
+}
+col._idGenTableRowColumn-8_r {
+	width:34px;
+}
+col._idGenTableRowColumn-9_r {
+	width:82px;
+}
+tr._idGenTableRowColumn-10_r {
+	min-height:15px;
+}
+tr._idGenTableRowColumn-11_r {
+	min-height:24px;
+}
+tr._idGenTableRowColumn-12_r {
+	min-height:120px;
+}
+tr._idGenTableRowColumn-13_r {
+	min-height:37px;
+}
+col._idGenTableRowColumn-14_r {
+	width:173px;
+}
+col._idGenTableRowColumn-15_r {
+	width:54px;
+}
+tr._idGenTableRowColumn-16_r {
+	min-height:13px;
+}
+tr._idGenTableRowColumn-17_r {
+	min-height:23px;
+}
+tr._idGenTableRowColumn-18_r {
+	min-height:32px;
+}
+col._idGenTableRowColumn-19_r {
+	width:187px;
+}
+tr._idGenTableRowColumn-20_r {
+	min-height:73px;
+}
+col._idGenTableRowColumn-21_r {
+	width:79px;
+}
+tr._idGenTableRowColumn-22_r {
+	min-height:18px;
+}
+tr._idGenTableRowColumn-23_r {
+	min-height:28px;
+}
+tr._idGenTableRowColumn-24_r {
+	min-height:135px;
+}
+col._idGenTableRowColumn-25_r {
+	width:161px;
+}
+tr._idGenTableRowColumn-26_r {
+	min-height:19px;
+}
+tr._idGenTableRowColumn-27_r {
+	min-height:21px;
+}
+tr._idGenTableRowColumn-28_r {
+	min-height:126px;
+}
+col._idGenTableRowColumn-29_r {
+	width:176px;
+}
+col._idGenTableRowColumn-30_r {
+	width:113px;
+}
+tr._idGenTableRowColumn-31_r {
+	min-height:27px;
+}
+col._idGenTableRowColumn-32_r {
+	width:48px;
+}
+col._idGenTableRowColumn-33_r {
+	width:58px;
+}
+col._idGenTableRowColumn-34_r {
+	width:55px;
+}
+tr._idGenTableRowColumn-35_r {
+	min-height:62px;
+}
+col._idGenTableRowColumn-36_r {
+	width:68px;
+}
+col._idGenTableRowColumn-37_r {
+	width:45px;
+}
+tr._idGenTableRowColumn-38_r {
+	min-height:50px;
+}
+tr._idGenTableRowColumn-39_r {
+	min-height:47px;
+}
+tr._idGenTableRowColumn-40_r {
+	min-height:57px;
+}
+tr._idGenTableRowColumn-41_r {
+	min-height:46px;
+}
+tr._idGenTableRowColumn-42_r {
+	min-height:56px;
+}
+tr._idGenTableRowColumn-43_r {
+	min-height:71px;
+}
+tr._idGenTableRowColumn-44_r {
+	min-height:49px;
+}
+tr._idGenTableRowColumn-45_r {
+	min-height:59px;
+}
+col._idGenTableRowColumn-46_r {
+	width:26px;
+}
+tr._idGenTableRowColumn-47_r {
+	min-height:43px;
+}
+tr._idGenTableRowColumn-48_r {
+	min-height:52px;
+}
+col._idGenTableRowColumn-49_r {
+	width:133px;
+}
+col._idGenTableRowColumn-50_r {
+	width:29px;
+}
+tr._idGenTableRowColumn-51_r {
+	min-height:16px;
+}
+col._idGenTableRowColumn-52_r {
+	width:137px;
+}
+tr._idGenTableRowColumn-53_r {
+	min-height:8px;
+}
+tr._idGenTableRowColumn-54_r {
+	min-height:5px;
+}
+tr._idGenTableRowColumn-55_r {
+	min-height:45px;
+}
+col._idGenTableRowColumn-56_r {
+	width:171px;
+}
+col._idGenTableRowColumn-57_r {
+	width:56px;
+}
+tr._idGenTableRowColumn-58_r {
+	min-height:17px;
+}
+col._idGenTableRowColumn-59_r {
+	width:128px;
+}
+col._idGenTableRowColumn-60_r {
+	width:91px;
+}
+col._idGenTableRowColumn-61_r {
+	width:108px;
+}
+col._idGenTableRowColumn-62_r {
+	width:74px;
+}
+tr._idGenTableRowColumn-63_r {
+	min-height:54px;
+}
+tr._idGenTableRowColumn-64_r {
+	min-height:55px;
+}
+col._idGenTableRowColumn-65_r {
+	width:62px;
+}
+col._idGenTableRowColumn-66_r {
+	width:28px;
+}
+tr._idGenTableRowColumn-67_r {
+	min-height:25px;
+}
+col._idGenTableRowColumn-68_r {
+	width:64px;
+}
+col._idGenTableRowColumn-69_r {
+	width:71px;
+}
+tr._idGenTableRowColumn-70_r {
+	min-height:20px;
+}
+tr._idGenTableRowColumn-71_r {
+	min-height:38px;
+}
+tr._idGenTableRowColumn-72_r {
+	min-height:26px;
+}
+tr._idGenTableRowColumn-73_r {
+	min-height:40px;
+}
+col._idGenTableRowColumn-74_r {
+	width:111px;
+}
+tr._idGenTableRowColumn-75_r {
+	height:6px;
+}
+tr._idGenTableRowColumn-76_r {
+	min-height:22px;
+}
+col._idGenTableRowColumn-77_r {
+	width:32px;
+}
+col._idGenTableRowColumn-78_r {
+	width:17px;
+}
+tr._idGenTableRowColumn-79_r {
+	min-height:70px;
+}
+tr._idGenTableRowColumn-80_r {
+	min-height:29px;
+}
+col._idGenTableRowColumn-81_r {
+	width:288px;
+}
+tr._idGenTableRowColumn-82_r {
+	min-height:86px;
+}
+tr._idGenTableRowColumn-83_r {
+	min-height:134px;
+}
+col._idGenTableRowColumn-84_r {
+	width:326px;
+}
+tr._idGenTableRowColumn-85_r {
+	height:7px;
+}
+tr._idGenTableRowColumn-86_r {
+	min-height:525px;
+}
+col._idGenTableRowColumn-87_r {
+	width:6px;
+}
+col._idGenTableRowColumn-88_r {
+	width:60px;
+}
+col._idGenTableRowColumn-89_r {
+	width:122px;
+}
+tr._idGenTableRowColumn-90_r {
+	min-height:9px;
+}
+tr._idGenTableRowColumn-91_r {
+	min-height:12px;
+}
+tr._idGenTableRowColumn-92_r {
+	min-height:31px;
+}
+col._idGenTableRowColumn-93_r {
+	width:165px;
+}
+col._idGenTableRowColumn-94_r {
+	width:44px;
+}
+col._idGenTableRowColumn-95_r {
+	width:135px;
+}
+col._idGenTableRowColumn-96_r {
+	width:46px;
+}
+tr._idGenTableRowColumn-97_r {
+	min-height:122px;
+}
+tr._idGenTableRowColumn-98_r {
+	min-height:142px;
+}
+tr._idGenTableRowColumn-99_r {
+	height:9px;
+}
+tr._idGenTableRowColumn-100_r {
+	min-height:388px;
+}
+tr._idGenTableRowColumn-101_r {
+	min-height:34px;
+}
+tr._idGenTableRowColumn-102_r {
+	min-height:83px;
+}
+tr._idGenTableRowColumn-103_r {
+	min-height:111px;
+}
+tr._idGenTableRowColumn-104_r {
+	min-height:35px;
+}
+col._idGenTableRowColumn-105_r {
+	width:142px;
+}
+col._idGenTableRowColumn-106_r {
+	width:85px;
+}
+col._idGenTableRowColumn-107_r {
+	width:315px;
+}
+tr._idGenTableRowColumn-108_r {
+	min-height:103px;
+}
+tr._idGenTableRowColumn-109_r {
+	min-height:160px;
+}
+tr._idGenTableRowColumn-110_r {
+	min-height:94px;
+}
+tr._idGenTableRowColumn-111_r {
+	min-height:75px;
+}
+col._idGenTableRowColumn-112_r {
+	width:156px;
+}
+col._idGenTableRowColumn-113_r {
+	width:21px;
+}
+col._idGenTableRowColumn-114_r {
+	width:42px;
+}
+col._idGenTableRowColumn-115_r {
+	width:169px;
+}
+tr._idGenTableRowColumn-116_r {
+	height:55px;
+}
+tr._idGenTableRowColumn-117_r {
+	height:61px;
+}
+tr._idGenTableRowColumn-118_r {
+	height:17px;
+}
+tr._idGenTableRowColumn-119_r {
+	height:26px;
+}
+tr._idGenTableRowColumn-120_r {
+	height:15px;
+}
+tr._idGenTableRowColumn-121_r {
+	height:16px;
+}
+tr._idGenTableRowColumn-122_r {
+	height:35px;
+}
+tr._idGenTableRowColumn-123_r {
+	height:48px;
+}
+tr._idGenTableRowColumn-124_r {
+	height:36px;
+}
+tr._idGenTableRowColumn-125_r {
+	height:19px;
+}
+tr._idGenTableRowColumn-126_r {
+	height:18px;
+}
+tr._idGenTableRowColumn-127_r {
+	height:24px;
+}
+tr._idGenTableRowColumn-128_r {
+	height:27px;
+}
+col._idGenTableRowColumn-129_r {
+	width:256px;
+}
+
+img._idGenObjectAttribute-1_r {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2_r {
+	height:28px;
+	width:26px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-3_r {
+	height:28px;
+	width:29px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-4_r {
+	height:53px;
+	width:133px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-5_r {
+	height:29px;
+	width:62px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-6_r {
+	height:29px;
+	width:55px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-7_r {
+	height:29px;
+	width:38px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-8_r {
+	height:29px;
+	width:43px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-9_r {
+	height:29px;
+	width:44px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-10_r {
+	height:29px;
+	width:60px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-11_r {
+	height:29px;
+	width:32px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-12_r {
+	height:29px;
+	width:56px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-13_r {
+	height:29px;
+	width:40px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-14_r {
+	height:29px;
+	width:45px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-15_r {
+	height:29px;
+	width:26px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-16_r {
+	height:29px;
+	width:105px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-17_r {
+	height:28px;
+	width:91px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-18_r {
+	height:29px;
+	width:79px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-19_r {
+	height:28px;
+	width:117px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-20_r {
+	height:29px;
+	width:35px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-21_r {
+	height:28px;
+	width:105px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-22_r {
+	height:27px;
+	width:91px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-23_r {
+	height:29px;
+	width:37px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-24_r {
+	height:17px;
+	width:11px;
+	vertical-align: middle !important;
+}
+img._idGenObjectAttribute-25_r {
+	height:30px;
+	width:72px;
+	vertical-align: middle !important;
+}
+#_idContainer065_r, #_idContainer067_r, #_idContainer068_r, #_idContainer069_r, #_idContainer070_r, #_idContainer071_r, #_idContainer072_r, #_idContainer073_r, #_idContainer074_r, #_idContainer075_r, #_idContainer076_r, #_idContainer077_r, #_idContainer078_r, #_idContainer079_r, #_idContainer080_r, #_idContainer081_r, #_idContainer082_r, #_idContainer083_r, #_idContainer084_r {
+	display:inline-block;
+	width:226px;
+	padding:3px;
+	text-align:center;
+	margin:6px 0;
+}
+td.Tab-haut_2 {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
 }

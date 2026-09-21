@@ -377,7 +377,7 @@ p.QCMNum {
 	font-weight:bold;
 	line-height:1.571;
 	margin-bottom:0;
-	margin-left:4px;
+	margin-left:0;
 	margin-right:0;
 	margin-top:3px;
 	orphans:99;
@@ -401,7 +401,7 @@ p.QuestionNum {
 	margin-bottom:0;
 	margin-left:0;
 	margin-right:0;
-	margin-top:3px;
+	margin-top:0;
 	orphans:2;
 	page-break-after:avoid;
 	page-break-before:auto;
@@ -876,6 +876,10 @@ td.CellOverride-16 {
 	padding-right:21px;
 	padding-top:5px;
 	vertical-align:bottom;
+}
+td.CellOverride-16_2 {
+	border-bottom-width:0px;
+	border-left-width:0px;
 }
 td.CellOverride-17 {
 	border-bottom-style:dotted;
@@ -1413,4 +1417,513 @@ div._idGenObjectStyle-Disabled {
 }
 div._idGenObjectLayout-1 {
 	text-align:center;
+}
+
+span.Bold---Underline {
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+td.TabTxt-C9-5-tete {
+	background-color:#e3e4e4;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+
+
+
+table.TableOverride-1_ {
+	border-collapse:collapse;
+	border-style:none;
+	border-width:0px;
+}
+td.CellOverride-1_ {
+	background-color:#e3e4e4;
+}
+td.CellOverride-2_ {
+	border-bottom-width:0px;
+	vertical-align:top;
+}
+td.CellOverride-3_ {
+	border-bottom-width:0px;
+	border-top-width:0px;
+	vertical-align:top;
+}
+td.CellOverride-4_ {
+	border-top-width:0px;
+	vertical-align:top;
+}
+td.CellOverride-5_ {
+	vertical-align:top;
+}
+td.CellOverride-6_ {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	vertical-align:top;
+}
+td.CellOverride-7_ {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	vertical-align:top;
+}
+td.CellOverride-8_ {
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+}
+td.CellOverride-9_ {
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	vertical-align:top;
+}
+td.CellOverride-10_ {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	vertical-align:top;
+}
+td.CellOverride-11_ {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+}
+td.CellOverride-12_ {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-top-width:0px;
+	vertical-align:top;
+}
+td.CellOverride-13_ {
+	border-right-width:0px;
+}
+td.CellOverride-14_ {
+	border-left-width:0px;
+	border-right-width:0px;
+}
+td.CellOverride-15_ {
+	border-left-width:0px;
+}
+td.CellOverride-16_ {
+	border-bottom-width:0px;
+	border-left-width:0px;
+}
+td.CellOverride-17_ {
+	border-left-width:0px;
+	border-top-width:0px;
+}
+td.CellOverride-18_ {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+}
+td.CellOverride-19_ {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+}
+td.CellOverride-20_ {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:0px;
+	padding-right:21px;
+	padding-top:5px;
+	vertical-align:bottom;
+}
+td.CellOverride-21_ {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+	vertical-align:bottom;
+}
+td.CellOverride-22_ {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:5px;
+	vertical-align:bottom;
+}
+td.CellOverride-23_ {
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+	vertical-align:bottom;
+}
+td.CellOverride-24_ {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:0px;
+	padding-right:21px;
+	padding-top:5px;
+	vertical-align:bottom;
+}
+td.CellOverride-25_ {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:5px;
+	vertical-align:bottom;
+}
+td.CellOverride-26_ {
+	border-bottom-style:dotted;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-style:dotted;
+	border-top-width:1px;
+	padding-bottom:5px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:5px;
+	vertical-align:bottom;
+}
+td.CellOverride-27_ {
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	vertical-align:top;
+}
+
+col._idGenTableRowColumn-1_ {
+	width:252px;
+}
+col._idGenTableRowColumn-2_ {
+	width:167px;
+}
+tr._idGenTableRowColumn-3_ {
+	min-height:14px;
+}
+tr._idGenTableRowColumn-4_ {
+	min-height:24px;
+}
+tr._idGenTableRowColumn-5_ {
+	min-height:28px;
+}
+col._idGenTableRowColumn-6_ {
+	width:164px;
+}
+col._idGenTableRowColumn-7_ {
+	width:78px;
+}
+col._idGenTableRowColumn-8_ {
+	width:107px;
+}
+col._idGenTableRowColumn-9_ {
+	width:70px;
+}
+tr._idGenTableRowColumn-10_ {
+	min-height:33px;
+}
+tr._idGenTableRowColumn-11_ {
+	min-height:18px;
+}
+tr._idGenTableRowColumn-12_ {
+	min-height:44px;
+}
+tr._idGenTableRowColumn-13_ {
+	min-height:66px;
+}
+tr._idGenTableRowColumn-14_ {
+	min-height:30px;
+}
+col._idGenTableRowColumn-15_ {
+	width:104px;
+}
+col._idGenTableRowColumn-16_ {
+	width:105px;
+}
+tr._idGenTableRowColumn-17_ {
+	min-height:23px;
+}
+tr._idGenTableRowColumn-18_ {
+	min-height:62px;
+}
+col._idGenTableRowColumn-19_ {
+	width:126px;
+}
+col._idGenTableRowColumn-20_ {
+	width:85px;
+}
+col._idGenTableRowColumn-21_ {
+	width:209px;
+}
+tr._idGenTableRowColumn-22_ {
+	min-height:26px;
+}
+tr._idGenTableRowColumn-23_ {
+	min-height:16px;
+}
+tr._idGenTableRowColumn-24_ {
+	min-height:21px;
+}
+col._idGenTableRowColumn-25_ {
+	width:147px;
+}
+col._idGenTableRowColumn-26_ {
+	width:68px;
+}
+col._idGenTableRowColumn-27_ {
+	width:117px;
+}
+col._idGenTableRowColumn-28_ {
+	width:86px;
+}
+tr._idGenTableRowColumn-29_ {
+	min-height:22px;
+}
+col._idGenTableRowColumn-30_ {
+	width:45px;
+}
+col._idGenTableRowColumn-31_ {
+	width:59px;
+}
+col._idGenTableRowColumn-32_ {
+	width:39px;
+}
+col._idGenTableRowColumn-33_ {
+	width:132px;
+}
+col._idGenTableRowColumn-34_ {
+	width:42px;
+}
+col._idGenTableRowColumn-35_ {
+	width:47px;
+}
+col._idGenTableRowColumn-36_ {
+	width:55px;
+}
+tr._idGenTableRowColumn-37_ {
+	min-height:80px;
+}
+tr._idGenTableRowColumn-38_ {
+	min-height:19px;
+}
+tr._idGenTableRowColumn-39_ {
+	min-height:17px;
+}
+col._idGenTableRowColumn-40_ {
+	width:62px;
+}
+col._idGenTableRowColumn-41_ {
+	width:65px;
+}
+col._idGenTableRowColumn-42_ {
+	width:75px;
+}
+col._idGenTableRowColumn-43_ {
+	width:184px;
+}
+col._idGenTableRowColumn-44_ {
+	width:60px;
+}
+col._idGenTableRowColumn-45_ {
+	width:175px;
+}
+col._idGenTableRowColumn-46_ {
+	width:52px;
+}
+col._idGenTableRowColumn-47_ {
+	width:57px;
+}
+col._idGenTableRowColumn-48_ {
+	width:53px;
+}
+col._idGenTableRowColumn-49_ {
+	width:51px;
+}
+tr._idGenTableRowColumn-50_ {
+	min-height:46px;
+}
+tr._idGenTableRowColumn-51_ {
+	min-height:55px;
+}
+tr._idGenTableRowColumn-52_ {
+	min-height:49px;
+}
+tr._idGenTableRowColumn-53_ {
+	min-height:38px;
+}
+tr._idGenTableRowColumn-54_ {
+	min-height:64px;
+}
+col._idGenTableRowColumn-55_ {
+	width:37px;
+}
+col._idGenTableRowColumn-56_ {
+	width:41px;
+}
+col._idGenTableRowColumn-57_ {
+	width:81px;
+}
+col._idGenTableRowColumn-58_ {
+	width:48px;
+}
+col._idGenTableRowColumn-59_ {
+	width:44px;
+}
+col._idGenTableRowColumn-60_ {
+	width:21px;
+}
+col._idGenTableRowColumn-61_ {
+	width:121px;
+}
+col._idGenTableRowColumn-62_ {
+	width:49px;
+}
+col._idGenTableRowColumn-63_ {
+	width:40px;
+}
+col._idGenTableRowColumn-64_ {
+	width:24px;
+}
+col._idGenTableRowColumn-65_ {
+	width:136px;
+}
+col._idGenTableRowColumn-66_ {
+	width:33px;
+}
+col._idGenTableRowColumn-67_ {
+	width:138px;
+}
+col._idGenTableRowColumn-68_ {
+	width:26px;
+}
+col._idGenTableRowColumn-69_ {
+	width:31px;
+}
+
+col._idGenTableRowColumn-70_ {
+	width:22px;
+}
+col._idGenTableRowColumn-71_ {
+	width:123px;
+}
+col._idGenTableRowColumn-72_ {
+	width:35px;
+}
+col._idGenTableRowColumn-73_ {
+	width:38px;
+}
+col._idGenTableRowColumn-74_ {
+	width:106px;
+}
+col._idGenTableRowColumn-75_ {
+	width:76px;
+}
+col._idGenTableRowColumn-76_ {
+	width:34px;
+}
+col._idGenTableRowColumn-77_ {
+	width:23px;
+}
+col._idGenTableRowColumn-78v {
+	width:149px;
+}
+col._idGenTableRowColumn-79_ {
+	width:73px;
+}
+col._idGenTableRowColumn-80_ {
+	width:159px;
+}
+tr._idGenTableRowColumn-81_ {
+	min-height:119px;
+}
+col._idGenTableRowColumn-82_ {
+	width:82px;
+}
+col._idGenTableRowColumn-83_ {
+	width:67px;
+}
+col._idGenTableRowColumn-84_ {
+	width:66px;
+}
+tr._idGenTableRowColumn-85_ {
+	min-height:15px;
+}
+col._idGenTableRowColumn-86_ {
+	width:64px;
+}
+col._idGenTableRowColumn-87_ {
+	width:43px;
+}
+tr._idGenTableRowColumn-88_ {
+	min-height:43px;
+}
+tr._idGenTableRowColumn-89_ {
+	min-height:37px;
+}
+col._idGenTableRowColumn-90_ {
+	width:157px;
+}
+col._idGenTableRowColumn-91_ {
+	width:91px;
+}
+col._idGenTableRowColumn-92_ {
+	width:97px;
+}
+col._idGenTableRowColumn-93_ {
+	width:92px;
+}
+
+span.Regularitalic---Underline {
+	font-style:italic;
+	font-weight:normal;
+	text-decoration:underline;
+}
+span.Medium-underline {
+	color:#000000;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:underline;
 }
